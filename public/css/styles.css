@@ -1,0 +1,23 @@
+@import url(https://fonts.googleapis.com/css?family=Pirata+One);
+
+body {
+  background-color: black;
+}
+
+header {
+  text-align: center;
+  color: red;
+}
+
+h1 {
+  font-family: 'Pirata One', cursive, Arial, serif; font-weight: 400;
+}
+
+#phaser-game {
+  width: 100%;
+  text-align: center;
+}
+
+canvas {
+  display: inline !important;
+}

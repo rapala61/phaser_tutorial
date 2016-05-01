@@ -1,0 +1,24 @@
+{
+  "name": "phaser_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "^6.7.7",
+    "babel-loader": "^6.2.4",
+    "babel-preset-es2015": "^6.6.0",
+    "ejs": "^2.4.1",
+    "expose-loader": "^0.7.1",
+    "express": "^4.13.4",
+    "jquery": "^2.2.3",
+    "phaser": "^2.4.7",
+    "script-loader": "^0.7.0",
+    "webpack": "^1.13.0"
+  }
+}
