@@ -10,4 +10,4 @@ This was my first attempt at building something with Phaser. I decided to follow
 
 ## How it looks now
 
-![]('https://s3-us-west-2.amazonaws.com/ga.graphics/screenshot.png')
+![](https://s3-us-west-2.amazonaws.com/ga.graphics/screenshot.png)
