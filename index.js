@@ -8,6 +8,6 @@ app.use(express.static('public'));
 
 app.use('/', indexRouter);
 
-app.listen(8081, function() {
+app.listen(process.env.PORT || 8081, function() {
   console.log("listening at port: 8081");
 })
